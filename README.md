@@ -71,8 +71,11 @@ Cada pasta contém os notebooks das respectivas oficinas e projetos desenvolvido
 - **Visualização:** Power BI, Tableau
 
 ## 📌 Oficinas em Destaque
-*(Links para as principais oficinas desenvolvidas)*
-- [Projeto Prático I - Análise Exploratória]
+
+### Sistema de classificação de imagens para e-commerce
+**Descrição:** Desenvolvimento de um sistema que realiza a classificação de imagens de frutas para uma empresa de e-commerce. O objetivo é que, ao enviar uma imagem, o sistema identifique se a fruta é uma maçã, banana ou laranja.
+
+🔗 [Acessar notebook da oficina](./avancado/Oficina_2_Sistema_de_classificação_de_imagens.ipynb)
 
 ## 📄 Certificação
 [Certificado de Conclusão](link-para-o-certificado)
